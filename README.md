@@ -23,4 +23,6 @@ Here, I share my progress and practice.
 <p align="center">
   <!-- أيقونة Visual Studio -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="50" />
+
 </p>
