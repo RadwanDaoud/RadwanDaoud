@@ -1,8 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Readwan 
 
-# 👨‍💻 التجربة الأولى
+Welcome to my GitHub profile!
 
-## 🧠 اللغات
+This page is small for now, but it will grow step by step.  
+I'm learning C++ and using Visual Studio to build small projects.  
+Here, I share my progress and practice.
+
+*Stay tuned for more updates!*
+
+
+## 🧠 Languages
 
 <p align="center">
   <!-- أيقونة C++ -->
@@ -11,7 +18,7 @@
 
 ---
 
-## 🛠️ الأدوات
+## 🛠️ Tools
 
 <p align="center">
   <!-- أيقونة Visual Studio -->
